@@ -1,7 +1,7 @@
 # wifiscan
 
-[![go report card](https://goreportcard.com/badge/github.com/schollz/wifiscan)](https://goreportcard.com/report/github.com/schollz/wifiscan) 
-[![coverage](https://img.shields.io/badge/coverage-87%25-brightgreen.svg)](https://gocover.io/github.com/schollz/wifiscan)
+[![go report card](https://goreportcard.com/badge/github.com/zeroby0/wifiscan)](https://goreportcard.com/report/github.com/zeroby0/wifiscan) 
+[![coverage](https://img.shields.io/badge/coverage-87%25-brightgreen.svg)](https://gocover.io/github.com/zeroby0/wifiscan)
 [![godocs](https://godoc.org/github.com/schollz/wifiscan?status.svg)](https://godoc.org/github.com/schollz/wifiscan) 
 
 
@@ -14,7 +14,7 @@ A platform-independent WiFi scanning library for getting BSSID + RSSI from nearb
 ## Install
 
 ```
-go get -u github.com/schollz/wifiscan/...
+go get -u github.com/zeroby0/wifiscan/...
 ```
 
 ## Usage 
