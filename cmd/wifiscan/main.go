@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	wifiscan "github.com/schollz/wifiscan"
+	wifiscan "github.com/zearoby0/wifiscan"
 )
 
 func main() {

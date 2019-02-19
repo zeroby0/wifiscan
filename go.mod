@@ -1,4 +1,4 @@
-module github.com/schollz/wifiscan
+module github.com/zeroby0/wifiscan
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
